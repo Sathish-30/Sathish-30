@@ -21,4 +21,4 @@
 
 → HTML<br/>
 → CSS<br/>
-→ JS<br/>
+→ Java Script<br/>
