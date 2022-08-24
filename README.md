@@ -13,7 +13,7 @@
 
 #### Connect with me
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Twitter)](https://twitter.com/Sathish73324058)<br/>
-[![Linkedin](https://icons8.com/free-icons/social_media_icons) LinkedIn](https://www.linkedin.com/in/sathish-s-3763a621a/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sathish-s-3763a621a/)
 
 <br/>
 
