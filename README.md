@@ -5,7 +5,7 @@
 
 » 🔭 I’m currently pursuing my **B.tech** degree <br />
 » 🌱 I’m currently learning **javascript** and it's **framework** <br />
-» 🛠️ Intent of 2022 → Need to upskill and become a well proficient front-end developer <br />
+» 🛠️ Intent of 2023 → Need to upskill and become a well proficient front-end developer <br />
 » ^_^ I'm interested in developing websites  <br />
 » 📫 How to reach me:🔗https://www.linkedin.com/in/sathish-s-3763a621a/ <br />
 
