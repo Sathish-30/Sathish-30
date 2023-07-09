@@ -29,7 +29,7 @@
     - JPA<br/> 
     - Node<br/>
     - Express<br/>
-    - Postgre<br/>  
+    - Postgres<br/>  
     - mongoDB<br/>
 
 - Version control
