@@ -32,6 +32,6 @@
     - Postgre<br/>  
     - mongoDB<br/>
 
--Version control
+- Version control
     - Git & GitHub
 
