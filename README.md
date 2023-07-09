@@ -17,15 +17,21 @@
 
 ### Language and tools
 
-- Java<br/>
-- Java Script<br/>
-- Java Spring Boot<br/>
-- JPA<br/>
-- Postgre<br/>
-- HTML<br/>
-- CSS<br/>
-- Node<br/>
-- Express<br/>
-- mongoDB<br/>
-- Git & GitHub
+- Frontend technology
+    - HTML<br/>
+    - CSS<br/>
+    - Java script<br/> 
+    - React<br/>
+      
+- Backend technology
+    - Java<br/>
+    - Java Spring Boot<br/>
+    - JPA<br/> 
+    - Node<br/>
+    - Express<br/>
+    - Postgre<br/>  
+    - mongoDB<br/>
+
+-Version control
+    - Git & GitHub
 
