@@ -3,7 +3,7 @@
 <hr/>
 <br/>
 
-> » 🌱 I’m currently learning React <br />
+> » 🌱 I’m currently Golang <br />
 > » 🛠️ Intent of 2023 → Need to upskill and become a well proficient full stack developer <br />
 > » 📫 How to reach me:🔗https://www.linkedin.com/in/sathish-s-3763a621a/ <br />
 
