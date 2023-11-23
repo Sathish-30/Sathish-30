@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **iamsathish3012@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Batman🦇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
