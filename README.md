@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
 <h3 align="center">A passionate java developer </h3>
 
-<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif">
+<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🌱 I’m currently learning **Spring Framework in java**
 
